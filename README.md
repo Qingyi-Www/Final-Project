@@ -26,10 +26,21 @@ Academic Paper: Write the background part of the Introduction (7.9-7.15)
    **How to increase the user's perception of touch:**
 
    Amplitude perceivable by participants. Sequential squeezes by participants. Cold was easier to notice than warmth. 
+5. The effect of music on the atmosphere of a movie, the rhythmic melody of different types of music (scary music, exciting music)
+   Rhythm: the basic elements of the composition, equivalent to drums.
+
+   Melody(the most expressive of the mood) & Pitch(vibrations)：
+
+   Sad: slow vibrations, stress (heavy tactile stimuli)
+
+   Fear, anxious and angry: rapid vibrations, stress (heavy tactile stimuli)
+
+   Clam: slow vibrations, light tone (light tactile stimulus) 
+   
+   Happy and euphoric: rapid vibrations, light tone (light tactile stimulus) 
 
 **Unfinished:**
-1. The effect of music on the atmosphere of a movie, the rhythmic melody of different types of music (scary music, exciting music)
-2. Papers related to wearable device design (for design)
+1. Papers related to wearable device design (for design)
 
 ### Questionnaire (half week, 7.10-7.15)
 1. Does Haptics Have an Impact on Augmented Film/Virtual Reality Immersion (Yes, No)
