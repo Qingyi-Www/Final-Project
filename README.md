@@ -4,7 +4,7 @@ The development of virtual reality/movie has ignored the feelings of disabled gr
 
 For example, horror movies are usually much less frightening when the sound is turned off. Therefore how to make it possible for deaf people to join in the enjoyment of virtual reality is also an important issue, so that the horror effect can be realized through the sense of touch instead of music. 
 
-(Inspiration: Music: Not Impossible)
+**Inspiration:** Music: Not Impossible
 ## Project Timeline and Milestones
 ## Summer work plan
 ### Literature reading (3 weeks)
