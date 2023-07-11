@@ -34,6 +34,7 @@ Academic Paper: Write the background part of the Introduction (7.9-7.15)
 
    Amplitude perceivable by participants. Sequential squeezes by participants. Cold was easier to notice than warmth. 
 5. The effect of music on the atmosphere of a movie, the rhythmic melody of different types of music (scary music, exciting music)
+
    **Rhythm:** the basic elements of the composition, equivalent to drums.
 
    **Melody(the most expressive of the mood) & Pitch(vibrations):**
