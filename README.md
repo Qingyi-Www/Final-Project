@@ -8,6 +8,8 @@ Horror movies and scary games, for example, are usually much less frightening wh
 
 Providing feasible support for your project based on existing articles/techniques.
 
+Academic Paper: Write the background part of the Introduction (7.9-7.15)
+
 **Completed:** 
 1. The substitutability of auditory experiences for the blind
 2. Existing substitutes (tactile, visual)
@@ -18,13 +20,16 @@ Providing feasible support for your project based on existing articles/technique
 1. The effect of music on the atmosphere of a movie, the rhythmic melody of different types of music (scary music, exciting music)
 2. Papers related to wearable device design (for design)
 
-### Questionnaire
+### Questionnaire (half week, 7.10-7.15)
 1. Does Haptics Have an Impact on Augmented Film/Virtual Reality Immersion (Yes, No)
 2. If there were wearable devices that enabled vibration delivery, would people prefer one body part, or multiple? (1,2,3)
 3. Does the sensation of touch vary from one body part to another? (Yes, No)
 4. The parts of the body that are considered to be the most sensitive for sensing touch are (head, fingers, hand, arm, leg)
+5. Academic Paper: Methodology.
 
-### Trying to extract audio
+### Extract audio (1/1.5 week, 7.15-7.23)
+Academic Paper: Related Work, Methodology
+
 **1. Find a short play suitable for the exhibition**
 
    3-4 minutes in length and with a clear change of plot (different kinds of atmospheric music shaping).
@@ -35,8 +40,10 @@ Providing feasible support for your project based on existing articles/technique
    
    Link: https://github.com/aubio/aubio or **rcaudio** https://github.com/mhy12345/rcaudio
 
-### Different sensor tests
-Tests with different sensors, choose the 2-3 most suitable solutions.
+### Different sensor tests (7.27-8.24)
+Tests with different sensors, choose the 2-3 most suitable solutions. 
+
+Academic Paper: Related Work, Methodology, A Project Write Up
 
 **Vibration:**
 1. Arduino Vibration Motor (SKU:RB-02S087): pure vibration, can control the time and interval of vibration (https://zhuanlan.zhihu.com/p/165207514)
@@ -50,8 +57,9 @@ Reference: [https:](https://blog.arduino.cc/2023/05/11/emoband-strokes-and-squee
 Small air pump:
 [https](https://thepihut.com/products/air-pump-and-vacuum-dc-motor-4-5v-and-1-8-lpm?variant=39823807480003&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk-Zb3UMpdbe-WMbEg1-cD3sDYEHj3bKbZNP-WBXn2U8wWIH9t2x33RoCDqQQAvD_BwE)https://thepihut.com/products/air-pump-and-vacuum-dc-motor-4-5v-and-1-8-lpm?variant=39823807480003&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk-Zb3UMpdbe-WMbEg1-cD3sDYEHj3bKbZNP-WBXn2U8wWIH9t2x33RoCDqQQAvD_BwE.
 
-### Design
+### Design (8.25-9.4)
 Sketch of 1 or 3 body part wearables based on questionnaire results (with three types of sensors, assembled into one wearable or separately based on questionnaire results)
+Academic Paper: Related Work, Methodology, A Project Write Up
 
 ## Autumn work plan
 ### Music data converted to tactile
