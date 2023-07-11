@@ -8,7 +8,7 @@ Horror movies and scary games, for example, are usually much less frightening wh
 
 Providing feasible support for your project based on existing articles/techniques.
 
-**Completed:** 
+#### Completed: 
 1. The substitutability of auditory experiences for the blind
 2. Existing substitutes (tactile, visual)
 3. Several modes of tactile stimulation (vibration, pressure, heat)
