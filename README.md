@@ -29,6 +29,32 @@ Providing feasible support for your project based on existing articles/technique
 
    3-4 minutes in length and with a clear change of plot (different kinds of atmospheric music shaping).
 
+   Question: Copyright issues? Are there situations where I can use a resource for free?
+
 **2. Plantfrom: aubio**
    
    Link: https://github.com/aubio/aubio or **rcaudio** https://github.com/mhy12345/rcaudio
+
+### Different sensor tests
+Tests with different sensors, choose the 2-3 most suitable solutions.
+
+**Vibration:**
+1. Arduino Vibration Motor (SKU:RB-02S087): pure vibration, can control the time and interval of vibration (https://zhuanlan.zhihu.com/p/165207514)
+2. LilyPad Vibe Board: Can be sewn into projects with conductive thread and controlled by a LilyPad Arduino (https://www.instructables.com/Arduino-) Lilypad-Slipper-Automatic-Foot-Massager/)
+3. vr grip
+
+**Squeeze:**
+1. Servo motor drives the material belt spindle to rotate
+Reference: [https:](https://blog.arduino.cc/2023/05/11/emoband-strokes-and-squeezes-your-wrist/)https://blog.arduino.cc/2023/05/11/emoband-strokes-and-squeezes-your-wrist/
+2. Something like the Electronic Sphygmomanometer
+Small air pump:
+[https](https://thepihut.com/products/air-pump-and-vacuum-dc-motor-4-5v-and-1-8-lpm?variant=39823807480003&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk-Zb3UMpdbe-WMbEg1-cD3sDYEHj3bKbZNP-WBXn2U8wWIH9t2x33RoCDqQQAvD_BwE)https://thepihut.com/products/air-pump-and-vacuum-dc-motor-4-5v-and-1-8-lpm?variant=39823807480003&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk-Zb3UMpdbe-WMbEg1-cD3sDYEHj3bKbZNP-WBXn2U8wWIH9t2x33RoCDqQQAvD_BwE.
+
+### Design
+Sketch of 1 or 3 body part wearables based on questionnaire results (with three types of sensors, assembled into one wearable or separately based on questionnaire results)
+
+### Music data converted to tactile
+Based on the conclusions of the pre-paper readings, the music in the film was transformed into a haptic experience through different tactile modalities and frequencies.
+
+### Assemble
+Assembling them after successful tests.
