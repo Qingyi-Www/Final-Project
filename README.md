@@ -18,7 +18,7 @@ Academic Paper: Write the background part of the Introduction (7.9-7.15)
 2. Existing substitutes (tactile, visual)
 3. Several modes of tactile stimulation (vibration, pressure, heat)
 4. Differences in emotions conveyed by different modes of tactile modalities.
-5. 
+   
    negative emotions: hard squeeze(also aroused emotional), brief and forcefull touch
 
    positive emotions: finger touch, slow squeeze, prolonged actions
