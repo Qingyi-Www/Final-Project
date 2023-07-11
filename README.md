@@ -8,4 +8,13 @@ Horror movies and scary games, for example, are usually much less frightening wh
 
 Providing feasible support for your project based on existing articles/techniques.
 
-**Completed:** the substitutability of auditory experiences for the blind, existing substitutes (tactile, visual), several modes of tactile stimulation (vibration, pressure, heat), differences in emotions conveyed by different modes of tactile modalities.
+**Completed:** 
+1. The substitutability of auditory experiences for the blind
+2. Existing substitutes (tactile, visual)
+3. Several modes of tactile stimulation (vibration, pressure, heat)
+4. Differences in emotions conveyed by different modes of tactile modalities
+
+**Unfinished:**
+1. The effect of music on the atmosphere of a movie, the rhythmic melody of different types of music (scary music, exciting music)
+
+2. Papers related to wearable device design (for design)
