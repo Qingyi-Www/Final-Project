@@ -13,6 +13,7 @@ Providing feasible support for your project based on existing articles/technique
 2. Existing substitutes (tactile, visual)
 3. Several modes of tactile stimulation (vibration, pressure, heat)
 4. Differences in emotions conveyed by different modes of tactile modalities
+
 **Unfinished:**
 1. The effect of music on the atmosphere of a movie, the rhythmic melody of different types of music (scary music, exciting music)
 2. Papers related to wearable device design (for design)
