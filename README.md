@@ -28,5 +28,8 @@ Providing feasible support for your project based on existing articles/technique
 1. **Find a short play suitable for the exhibition**
 
    3-4 minutes in length and with a clear change of plot (different kinds of atmospheric music shaping).
-2. **Plantfrom: aubio**
+
+
+   
+3. **Plantfrom: aubio**
    Link: https://github.com/aubio/aubio, rcaudio (If I have time I can make this attempt): https://github.com/mhy12345/rcaudio
