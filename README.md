@@ -18,6 +18,13 @@ Academic Paper: Write the background part of the Introduction (7.9-7.15)
 2. Existing substitutes (tactile, visual)
 3. Several modes of tactile stimulation (vibration, pressure, heat)
 4. Differences in emotions conveyed by different modes of tactile modalities
+   negative emotions: hard squeeze(also aroused emotional), brief and forcefull touch
+
+   positive emotions: finger touch, slow squeeze, prolonged actions
+
+   How to increase the user's perception of touch:
+
+   Amplitude perceivable by participants. Sequential squeezes by participants. Cold was easier to notice than warmth. 
 
 **Unfinished:**
 1. The effect of music on the atmosphere of a movie, the rhythmic melody of different types of music (scary music, exciting music)
