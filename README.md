@@ -6,4 +6,5 @@ Horror movies and scary games, for example, are usually much less frightening wh
 ### Summer work plan
 **Literature reading (3 weeks)**
 Providing feasible support for your project based on existing articles/techniques.
+
 **Completed:** the substitutability of auditory experiences for the blind, existing substitutes (tactile, visual), several modes of tactile stimulation (vibration, pressure, heat), differences in emotions conveyed by different modes of tactile modalities.
