@@ -53,8 +53,9 @@ Small air pump:
 ### Design
 Sketch of 1 or 3 body part wearables based on questionnaire results (with three types of sensors, assembled into one wearable or separately based on questionnaire results)
 
+## Autumn work plan
 ### Music data converted to tactile
-Based on the conclusions of the pre-paper readings, the music in the film was transformed into a haptic experience through different tactile modalities and frequencies.
+Based on the conclusions of the pre-paper readings, the music in the film was transformed into a haptic experience through different tactile modalities and frequencies. (Will also be partially completed during **Different sensor tests** phases)
 
 ### Assemble
 Assembling them after successful tests.
