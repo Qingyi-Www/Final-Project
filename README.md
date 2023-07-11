@@ -1,8 +1,10 @@
 # Final-Project
 **Project Purpose:**
-The development of virtual reality/movie has ignored the feelings of disabled groups, such as the DEAF, who do not enjoy the full viewing experience and lose a large part of their immersion because they cannot hear the music.
+The development of virtual reality/movie/game has ignored the feelings of disabled groups, such as the DEAF, who do not enjoy the full viewing experience and lose a large part of their immersion because they cannot hear the music.
 
-For example, horror movies are usually much less frightening when the sound is turned off. Therefore how to make it possible for deaf people to join in the enjoyment of virtual reality is also an important issue, so that the horror effect can be realized through the sense of touch instead of music. 
+For example, horror movies are usually much less frightening when the sound is turned off. Therefore how to make it possible for deaf people to join in the enjoyment of virtual reality/movies is also an important issue. 
+
+So I want to make a wearable that has a virtual reality/movie/game vibe through touch rather than music.
 
 **Inspiration:** Music: Not Impossible
 ## Project Timeline and Milestones
