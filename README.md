@@ -7,6 +7,11 @@ For example, horror movies are usually much less frightening when the sound is t
 Therefore, I want to make a wearable device that increases deaf people's immersion in virtual reality/movies/games through touch instead of music.
 
 **Inspiration:** Music: Not Impossible
+
+This program is to help deaf people experience live music.
+
+https://www.notimpossible.com/projects/music-not-impossible#:~:text=Music%3A%20Not%20Impossible%20is%20a%20Vibrotextile%E2%84%A2%20wearable%20technology,all%20users%20a%20unique%20and%20nuanced%20music%20experience.
+
 ## Project Timeline and Milestones
 ## Summer work plan
 ### Literature reading (3 weeks)
