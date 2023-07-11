@@ -4,7 +4,7 @@ The development of virtual reality/movie/game has ignored the feelings of disabl
 
 For example, horror movies are usually much less frightening when the sound is turned off. Therefore how to make it possible for deaf people to join in the enjoyment of virtual reality/movies is also an important issue. 
 
-So I want to make a wearable that has a virtual reality/movie/game vibe through touch rather than music.
+Therefore, I want to make a wearable device that increases deaf people's immersion in virtual reality/movies/games through touch instead of music.
 
 **Inspiration:** Music: Not Impossible
 ## Project Timeline and Milestones
