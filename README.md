@@ -25,11 +25,10 @@ Providing feasible support for your project based on existing articles/technique
 4. The parts of the body that are considered to be the most sensitive for sensing touch are (head, fingers, hand, arm, leg)
 
 ### Trying to extract audio
-1. **Find a short play suitable for the exhibition**
+**1. Find a short play suitable for the exhibition**
 
    3-4 minutes in length and with a clear change of plot (different kinds of atmospheric music shaping).
 
-
+**2. Plantfrom: aubio**
    
-3. **Plantfrom: aubio**
-   Link: https://github.com/aubio/aubio, rcaudio (If I have time I can make this attempt): https://github.com/mhy12345/rcaudio
+   Link: https://github.com/aubio/aubio or **rcaudio** https://github.com/mhy12345/rcaudio
