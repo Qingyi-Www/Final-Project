@@ -21,7 +21,7 @@ Providing feasible support for your project based on existing articles/technique
 Academic Paper: Write the background part of the Introduction (7.9-7.15)
 
 **Completed:** 
-1. The substitutability of auditory experiences for the blind
+1. The substitutability of auditory experiences for the deaf
 2. Existing substitutes (tactile, visual)
 3. Several modes of tactile stimulation (vibration, pressure, heat)
 4. Differences in emotions conveyed by different modes of tactile modalities.
@@ -34,9 +34,9 @@ Academic Paper: Write the background part of the Introduction (7.9-7.15)
 
    Amplitude perceivable by participants. Sequential squeezes by participants. Cold was easier to notice than warmth. 
 5. The effect of music on the atmosphere of a movie, the rhythmic melody of different types of music (scary music, exciting music)
-   Rhythm: the basic elements of the composition, equivalent to drums.
+   **Rhythm:** the basic elements of the composition, equivalent to drums.
 
-   Melody(the most expressive of the mood) & Pitch(vibrations)：
+   **Melody(the most expressive of the mood) & Pitch(vibrations):**
 
    Sad: slow vibrations, stress (heavy tactile stimuli)
 
