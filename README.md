@@ -51,11 +51,7 @@ Academic Paper: Write the background part of the Introduction (7.9-7.15)
 1. Papers related to wearable device design (for design)
 
 ### Questionnaire (half week, 7.10-7.15)
-1. Does Haptics Have an Impact on Augmented Film/Virtual Reality Immersion (Yes, No)
-2. If there were wearable devices that enabled vibration delivery, would people prefer one body part, or multiple? (1,2,3)
-3. Does the sensation of touch vary from one body part to another? (Yes, No)
-4. The parts of the body that are considered to be the most sensitive for sensing touch are (head, fingers, hand, arm, leg)
-5. Academic Paper: Methodology.
+View Questionnaire.pdf attachment
 
 ### Extract audio (1/1.5 week, 7.15-7.23)
 Academic Paper: Related Work, Methodology
