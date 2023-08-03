@@ -51,11 +51,12 @@ Academic Paper: View Literature Review.pdf
 **Unfinished:**
 1. Papers related to wearable device design (for design)
 
-### Questionnaire (half week, 7.10-7.15)
+### Questionnaire (half week, 7.10-7.25)
 View Questionnaire.pdf attachment
+
 **Result:** View Interview Transcripts.pdf
 
-### Extract audio (1/1.5 week, 7.15-7.23)
+### Extract audio (1/1.5 week, 7.25-8.10)
 Academic Paper: Related Work, Methodology
 
 **1. Find a short play suitable for the exhibition**
