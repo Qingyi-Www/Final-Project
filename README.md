@@ -53,6 +53,7 @@ Academic Paper: View Literature Review.pdf
 
 ### Questionnaire (half week, 7.10-7.15)
 View Questionnaire.pdf attachment
+**Result:** View Interview Transcripts.pdf
 
 ### Extract audio (1/1.5 week, 7.15-7.23)
 Academic Paper: Related Work, Methodology
