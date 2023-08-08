@@ -58,9 +58,16 @@ Academic Paper: Related Work, Methodology
 
 **1. Find a short play suitable for the exhibition**
 
-   3-4 minutes in length and with a clear change of plot (different kinds of atmospheric music shaping).
+   short film：controller
+   
+   link：https://www.youtube.com/watch?v=_osh7dQa5lA
 
-   Question: Copyright issues? Are there situations where I can use a resource for free?
+   Just before turning in for the night, Sarah soon finds her evening much more entertaining than anticipated. Surely cause and effect is the rational judgement? Or perhaps there is a far more whimsical reason? begging the question, who or what is the controller?
+   
+   3 minutes in length and with a clear change of plot.
+
+   Question: The music is quoted in the film, so can I just note the creator and source of the music?
+And I sent a message to this Youtube account and haven't received a reply yet, should I change it?
 
 **2. Plantfrom: aubio**
    
