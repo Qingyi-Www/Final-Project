@@ -62,12 +62,14 @@ Academic Paper: Related Work, Methodology
    
    link：https://www.youtube.com/watch?v=_osh7dQa5lA
 
-   Just before turning in for the night, Sarah soon finds her evening much more entertaining than anticipated. Surely cause and effect is the rational judgement? Or perhaps there is a far more whimsical reason? begging the question, who or what is the controller?
+   Synopsis： Just before turning in for the night, Sarah soon finds her evening much more entertaining than anticipated. Surely cause and effect is the rational judgement? Or perhaps there is a far more whimsical reason? begging the question, who or what is the controller?
    
-   3 minutes in length and with a clear change of plot.
+   3 minutes in length and with a clear change of plot, and the music in this film is very useful and switches more frequently (e.g. sound level, type of music), which I think is a better length for the final graduation exhibition.
+
+   The music in this film almost has the sound effect (sound from TV) but lacks music that expresses emotions. But I think that this short film without music will affect the understanding of the film, so I think that this short film can still highlight what my project is presenting
 
    Question: The music is quoted in the film, so can I just note the creator and source of the music?
-And I sent a message to this Youtube account and haven't received a reply yet, should I change it?
+I contacted the director and he said I could use his video, I'm a little unsure, if I use his film, what part should I quote? Like does the school have citation format requirements? Or do I just need to ask the director to follow what he needs to present (at the end of the film and in the thesis? Because his original video is in Youtube and the video is not labelled with the director, should I re-edit it?)
 
 **2. Plantfrom: aubio**
    
