@@ -84,7 +84,7 @@ Such as splitting the audio into sound effects and background music and allowing
    I have completed the literature review and interview sections so far, as my project is still ongoing, I haven't finished the other section yet.
 
 ### 5. Assemble the wearable form
-   Like a glove. I am using a total of six vibration motors controlled by controllers, and I am securing them to the fingers. Based on the interviews, fingers are more sensitive to tactile sensations, and they are also symbolically connected to the heart in Chinese culture. In my project, participants will be wearing headphones, so I cannot mount the motors on the ears. Therefore, I have chosen to design this wearable device for the hand.
+   Like a glove. I am using a total of six vibration motors controlled by controllers, and I am securing them to three fingers on each hand. Based on the interviews, fingers are more sensitive to tactile sensations, and they are also symbolically connected to the heart in Chinese culture. In my project, participants will be wearing headphones, so I cannot mount the motors on the ears. Therefore, I have chosen to design this wearable device for the hand.
 
 ## Question:
 
