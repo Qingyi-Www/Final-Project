@@ -17,20 +17,20 @@ Providing feasible support for your project based on existing articles/technique
 
 Academic Paper: View Literature Review.pdf 
 
-**Completed:** 
-1. Research：
+## Completed:
+### 1. Research：
   
    I. The substitutability of auditory experiences for the deaf
 
    II. Existing substitutes (tactile, visual)
    
-2. Wrote the Introduction part of the essay: Literature Review.pdf
+### 2. Wrote the Introduction part of the essay: Literature Review.pdf
 
-About the feasibility of my project, mainly including the existing research and the significance of the project. (see Essay part)
+About the feasibility of my project, mainly including the existing research and the significance of the project. (sView Literature Review.pdf)
 
 There’s the link about my essay on Google Docs if I upload a pdf that's not easy to read: https://docs.google.com/document/d/1-iiLT-GF5E35Y-toC7YNKWTx89TsdeicaAzzfK-SBGA/edit?usp=sharing
 
-3. Interview
+### 3. Interview
    I. I interviewed eight students around me with the questions in the questionnaire and I summarised each question. (see Summary and Transcript part)
 
    Based on the interview questionnaire, I decided to design the vibration and squeeze sensors as two separate wearable devices to be worn on different parts of the user's body while watching the film (the exact position will be decided after I convert the audio into vibration).
@@ -38,8 +38,10 @@ There’s the link about my essay on Google Docs if I upload a pdf that's not ea
    II. The equipment needs to be rented from the school: Display, Headset, Table, Chair
 In this case, it will be divided into four main viewing states, the first is to wear headphones to watch, the second is to wear wear wearable devices without headphones, the third is to wear no headphones without wearable devices to watch, and finally is to wear at the same time
 
-4. Video
-   I. ‘Controller’: https://www.youtube.com/watch?v=_osh7dQa5lA
+### 4. Video
+   I.  short film：Controller
+   
+   link：https://www.youtube.com/watch?v=_osh7dQa5lA
 
    II. Synopsis： Just before turning in for the night, Sarah soon finds her evening much more entertaining than anticipated. Surely cause and effect is the rational judgement? Or perhaps there is a far more whimsical reason? begging the question, who or what is the controller?
 
@@ -47,7 +49,7 @@ In this case, it will be divided into four main viewing states, the first is to 
 
    The music in this film almost has the sound effect (sound from TV) but lacks music that expresses emotions. But I think that this short film without music will affect the understanding of the film, so I think that this short film can still highlight what my project is presenting
 
-5. In Processing (a coding software based on Java), I have completed audio analysis and transferred the data to Arduino to synchronize LED strips and a vibration motor with the music. However, the merged file still needs debugging because some data analysis issues have resulted in reduced precision in the vibration motor's operation after merging.
+### 5. In Processing (a coding software based on Java), I have completed audio analysis and transferred the data to Arduino to synchronize LED strips and a vibration motor with the music. However, the merged file still needs debugging because some data analysis issues have resulted in reduced precision in the vibration motor's operation after merging.
 
 Processing coding:
 
@@ -60,61 +62,26 @@ Arduino coding:
 <img width="636" alt="截屏2023-10-30 14 15 00" src="https://git.arts.ac.uk/storage/user/589/files/575edd08-c4d5-4175-aa13-4501dc017f8a">
 <img width="634" alt="截屏2023-10-30 14 15 09" src="https://git.arts.ac.uk/storage/user/589/files/bf5ddef9-8e60-40c9-aea9-fb2ac0f03f1f">
 
-
-**Unfinished:**
-1. Papers related to wearable device design (for design)
-
-### Questionnaire (half week, 7.10-7.25)
-View Questionnaire.pdf attachment
-
-**Result:** View Summary & Transcript of the interview.pdf
-
-### Extract audio (1/1.5 week, 7.25-8.10)
-Academic Paper: Related Work, Methodology
-
-**1. Find a short play suitable for the exhibition**
-
-   short film：controller
+## Next to do:
+### 1. Connect more controllers.
+  
+   Connect more vibration motors controlled by DRV2605L; here, I choose to use ( ) for centralized control of all DRV2605L devices.
    
-   link：https://www.youtube.com/watch?v=_osh7dQa5lA
+### 2. Explore a wider variety of vibration patterns
 
-   Synopsis： Just before turning in for the night, Sarah soon finds her evening much more entertaining than anticipated. Surely cause and effect is the rational judgement? Or perhaps there is a far more whimsical reason? begging the question, who or what is the controller?
+Such as splitting the audio into sound effects and background music and allowing users to feel sound effects and background music separately in the left and right hands. (Since I don't have the original video's audio track files, I might opt to edit the background music in software like Premiere and replace it with similar sound effects. However, there's no need to worry about discrepancies with the original video, as the final presentation will use the original video and audio files. The two audio files I edit later are for background analysis.)
+
+### 3. Experiment with more dynamic changes in LED strip colors.
    
-   3 minutes in length and with a clear change of plot, and the music in this film is very useful and switches more frequently (e.g. sound level, type of music), which I think is a better length for the final graduation exhibition.
+### 4. Write the Methodology, A Project Write Up and Evaluation of the paper.
 
-   The music in this film almost has the sound effect (sound from TV) but lacks music that expresses emotions. But I think that this short film without music will affect the understanding of the film, so I think that this short film can still highlight what my project is presenting
+   I have completed the literature review and interview sections so far, as my project is still ongoing, I haven't finished the other section yet.
 
-   Question: The music is quoted in the film, so can I just note the creator and source of the music?
-I contacted the director and he said I could use his video, I'm a little unsure, if I use his film, what part should I quote? Like does the school have citation format requirements? Or do I just need to ask the director to follow what he needs to present (at the end of the film and in the thesis? Because his original video is in Youtube and the video is not labelled with the director, should I re-edit it?)
+### 5. Assemble the wearable form
+   Like a glove. I am using a total of six vibration motors controlled by controllers, and I am securing them to the fingers. Based on the interviews, fingers are more sensitive to tactile sensations, and they are also symbolically connected to the heart in Chinese culture. In my project, participants will be wearing headphones, so I cannot mount the motors on the ears. Therefore, I have chosen to design this wearable device for the hand.
 
-**2. Plantfrom: aubio**
-   
-   Link: https://github.com/aubio/aubio or **rcaudio** https://github.com/mhy12345/rcaudio
+## Question:
 
-### Different sensor tests (7.27-8.24)
-Tests with different sensors, choose the 2-3 most suitable solutions. 
+ I was not able to find the DRV2605L component in Autodesk Thinkercad, so I needed to figure out how to solve this problem in order to put a clearer circuit diagram in my thesis.
 
-Academic Paper: Related Work, Methodology, A Project Write Up
-
-**Vibration:**
-1. Arduino Vibration Motor (SKU:RB-02S087): pure vibration, can control the time and interval of vibration (https://zhuanlan.zhihu.com/p/165207514)
-2. LilyPad Vibe Board: Can be sewn into projects with conductive thread and controlled by a LilyPad Arduino (https://www.instructables.com/Arduino-) Lilypad-Slipper-Automatic-Foot-Massager/)
-3. vr grip
-
-**Squeeze:**
-1. Servo motor drives the material belt spindle to rotate
-Reference: [https:](https://blog.arduino.cc/2023/05/11/emoband-strokes-and-squeezes-your-wrist/)https://blog.arduino.cc/2023/05/11/emoband-strokes-and-squeezes-your-wrist/
-2. Something like the Electronic Sphygmomanometer
-Small air pump:
-[https](https://thepihut.com/products/air-pump-and-vacuum-dc-motor-4-5v-and-1-8-lpm?variant=39823807480003&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk-Zb3UMpdbe-WMbEg1-cD3sDYEHj3bKbZNP-WBXn2U8wWIH9t2x33RoCDqQQAvD_BwE)https://thepihut.com/products/air-pump-and-vacuum-dc-motor-4-5v-and-1-8-lpm?variant=39823807480003&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk-Zb3UMpdbe-WMbEg1-cD3sDYEHj3bKbZNP-WBXn2U8wWIH9t2x33RoCDqQQAvD_BwE.
-
-### Design (8.25-9.4)
-Sketch of 1 or 3 body part wearables based on questionnaire results (with three types of sensors, assembled into one wearable or separately based on questionnaire results)
-Academic Paper: Related Work, Methodology, A Project Write Up
-
-## Autumn work plan
-### Music data converted to tactile
-Based on the conclusions of the pre-paper readings, the music in the film was transformed into a haptic experience through different tactile modalities and frequencies. (Will also be partially completed during **Different sensor tests** phases)
-
-### Assemble
-Assembling them after successful tests.
+ <img width="1225" alt="截屏2023-10-30 14 42 35" src="https://git.arts.ac.uk/storage/user/589/files/17abd5b7-f327-45d4-8b0c-a0a049688e16">
