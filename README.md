@@ -49,7 +49,9 @@ In this case, it will be divided into four main viewing states, the first is to 
 
    The music in this film almost has the sound effect (sound from TV) but lacks music that expresses emotions. But I think that this short film without music will affect the understanding of the film, so I think that this short film can still highlight what my project is presenting
 
-### 5. In Processing (a coding software based on Java), I have completed audio analysis and transferred the data to Arduino to synchronize LED strips and a vibration motor with the music. However, the merged file still needs debugging because some data analysis issues have resulted in reduced precision in the vibration motor's operation after merging.
+### 5. Coding Part
+
+In Processing (a coding software based on Java), I have completed audio analysis and transferred the data to Arduino to synchronize LED strips and a vibration motor with the music. However, the merged file still needs debugging because some data analysis issues have resulted in reduced precision in the vibration motor's operation after merging.
 
 ![WechatIMG42](https://git.arts.ac.uk/storage/user/589/files/02db0616-8da2-4af5-87c0-91e601a26b82)
 
