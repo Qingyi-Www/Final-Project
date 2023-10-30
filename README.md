@@ -31,16 +31,34 @@ About the feasibility of my project, mainly including the existing research and 
 There’s the link about my essay on Google Docs if I upload a pdf that's not easy to read: https://docs.google.com/document/d/1-iiLT-GF5E35Y-toC7YNKWTx89TsdeicaAzzfK-SBGA/edit?usp=sharing
 
 3. Interview
+   I. I interviewed eight students around me with the questions in the questionnaire and I summarised each question. (see Summary and Transcript part)
 
-I. I interviewed eight students around me with the questions in the questionnaire and I summarised each question. (see Summary and Transcript part)
+   Based on the interview questionnaire, I decided to design the vibration and squeeze sensors as two separate wearable devices to be worn on different parts of the user's body while watching the film (the exact position will be decided after I convert the audio into vibration).
 
-Based on the interview questionnaire, I decided to design the vibration and squeeze sensors as two separate wearable devices to be worn on different parts of the user's body while watching the film (the exact position will be decided after I convert the audio into vibration).
-
-II. The equipment needs to be rented from the school: Display, Headset, Table, Chair
+   II. The equipment needs to be rented from the school: Display, Headset, Table, Chair
 In this case, it will be divided into four main viewing states, the first is to wear headphones to watch, the second is to wear wear wearable devices without headphones, the third is to wear no headphones without wearable devices to watch, and finally is to wear at the same time
 
+4. Video
+   I. ‘Controller’: https://www.youtube.com/watch?v=_osh7dQa5lA
 
+   II. Synopsis： Just before turning in for the night, Sarah soon finds her evening much more entertaining than anticipated. Surely cause and effect is the rational judgement? Or perhaps there is a far more whimsical reason? begging the question, who or what is the controller?
 
+   III. 3 minutes in length and with a clear change of plot, and the music in this film is very useful and switches more frequently (e.g. sound level, type of music), which I think is a better length for the final graduation exhibition.
+
+   The music in this film almost has the sound effect (sound from TV) but lacks music that expresses emotions. But I think that this short film without music will affect the understanding of the film, so I think that this short film can still highlight what my project is presenting
+
+5. In Processing (a coding software based on Java), I have completed audio analysis and transferred the data to Arduino to synchronize LED strips and a vibration motor with the music. However, the merged file still needs debugging because some data analysis issues have resulted in reduced precision in the vibration motor's operation after merging.
+
+Processing coding:
+
+<img width="508" alt="截屏2023-10-30 14 18 16" src="https://git.arts.ac.uk/storage/user/589/files/24956dc4-eca4-42f3-8d92-6e650722e763">
+<img width="636" alt="截屏2023-10-30 14 18 34" src="https://git.arts.ac.uk/storage/user/589/files/6916d0c0-e15a-4f89-bd1c-a5202edc6fed">
+<img width="512" alt="截屏2023-10-30 14 18 42" src="https://git.arts.ac.uk/storage/user/589/files/21f90a1f-31fd-4444-9bd9-691c7fc5632d">
+
+Arduino coding:
+
+<img width="636" alt="截屏2023-10-30 14 15 00" src="https://git.arts.ac.uk/storage/user/589/files/575edd08-c4d5-4175-aa13-4501dc017f8a">
+<img width="634" alt="截屏2023-10-30 14 15 09" src="https://git.arts.ac.uk/storage/user/589/files/bf5ddef9-8e60-40c9-aea9-fb2ac0f03f1f">
 
 
 **Unfinished:**
