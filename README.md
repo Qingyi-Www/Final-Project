@@ -29,6 +29,7 @@ Academic Paper: View Literature Review.pdf
 About the feasibility of my project, mainly including the existing research and the significance of the project. (see Essay part)
 
 There’s the link about my essay on Google Docs if I upload a pdf that's not easy to read: https://docs.google.com/document/d/1-iiLT-GF5E35Y-toC7YNKWTx89TsdeicaAzzfK-SBGA/edit?usp=sharing
+
 3. Interview
 
 I. I interviewed eight students around me with the questions in the questionnaire and I summarised each question. (see Summary and Transcript part)
