@@ -18,13 +18,27 @@ Providing feasible support for your project based on existing articles/technique
 Academic Paper: View Literature Review.pdf 
 
 **Completed:** 
-1. Wrote the Introduction part of the essay: Literature Review.pdf
+1. Research：
+  
+   I. The substitutability of auditory experiences for the deaf
+
+   II. Existing substitutes (tactile, visual)
+   
+2. Wrote the Introduction part of the essay: Literature Review.pdf
+
 About the feasibility of my project, mainly including the existing research and the significance of the project. (see Essay part)
+
 There’s the link about my essay on Google Docs if I upload a pdf that's not easy to read: https://docs.google.com/document/d/1-iiLT-GF5E35Y-toC7YNKWTx89TsdeicaAzzfK-SBGA/edit?usp=sharing
-2. The substitutability of auditory experiences for the deaf
-3. Existing substitutes (tactile, visual)
-4. Several modes of tactile stimulation (vibration, pressure, heat)
-5. Differences in emotions conveyed by different modes of tactile modalities.
+3. Interview
+
+I. I interviewed eight students around me with the questions in the questionnaire and I summarised each question. (see Summary and Transcript part)
+
+Based on the interview questionnaire, I decided to design the vibration and squeeze sensors as two separate wearable devices to be worn on different parts of the user's body while watching the film (the exact position will be decided after I convert the audio into vibration).
+
+II. The equipment needs to be rented from the school: Display, Headset, Table, Chair
+In this case, it will be divided into four main viewing states, the first is to wear headphones to watch, the second is to wear wear wearable devices without headphones, the third is to wear no headphones without wearable devices to watch, and finally is to wear at the same time
+
+
 
 
 
