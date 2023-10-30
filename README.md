@@ -51,6 +51,8 @@ In this case, it will be divided into four main viewing states, the first is to 
 
 ### 5. In Processing (a coding software based on Java), I have completed audio analysis and transferred the data to Arduino to synchronize LED strips and a vibration motor with the music. However, the merged file still needs debugging because some data analysis issues have resulted in reduced precision in the vibration motor's operation after merging.
 
+![WechatIMG42](https://git.arts.ac.uk/storage/user/589/files/02db0616-8da2-4af5-87c0-91e601a26b82)
+
 Processing coding:
 
 <img width="508" alt="截屏2023-10-30 14 18 16" src="https://git.arts.ac.uk/storage/user/589/files/24956dc4-eca4-42f3-8d92-6e650722e763">
@@ -65,7 +67,9 @@ Arduino coding:
 ## Next to do:
 ### 1. Connect more controllers.
   
-   Connect more vibration motors controlled by DRV2605L; here, I choose to use ( ) for centralized control of all DRV2605L devices.
+   Connect more vibration motors controlled by DRV2605L; here, I choose to use TCA9548A for centralized control of all DRV2605L devices.
+
+   <img width="247" alt="截屏2023-10-30 14 48 38" src="https://git.arts.ac.uk/storage/user/589/files/a311fee3-1cc9-4966-8345-93da70828a1e">
    
 ### 2. Explore a wider variety of vibration patterns
 
@@ -85,3 +89,5 @@ Such as splitting the audio into sound effects and background music and allowing
  I was not able to find the DRV2605L component in Autodesk Thinkercad, so I needed to figure out how to solve this problem in order to put a clearer circuit diagram in my thesis.
 
  <img width="1225" alt="截屏2023-10-30 14 42 35" src="https://git.arts.ac.uk/storage/user/589/files/17abd5b7-f327-45d4-8b0c-a0a049688e16">
+
+ <img width="329" alt="截屏2023-10-30 14 44 10" src="https://git.arts.ac.uk/storage/user/589/files/89f93441-a158-4c36-b18a-9b3afc3b9ce1">
