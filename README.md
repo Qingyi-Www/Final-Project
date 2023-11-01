@@ -9,7 +9,7 @@ Therefore, I want to make a wearable device that increases deaf people's immersi
 **Inspiration:** Music: Not Impossible
 
 
-## Project Timeline and Milestones
+## Project progress
 ### Literature reading (3 weeks)
 
 Providing feasible support for your project based on existing articles/techniques.
