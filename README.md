@@ -4,17 +4,10 @@ The development of virtual reality/movie/game has ignored the feelings of disabl
 
 For example, horror movies are usually much less frightening when the sound is turned off. Therefore how to make it possible for deaf people to join in the enjoyment of virtual reality/movies is also an important issue. 
 
-Therefore, I want to make a wearable device that increases deaf people's immersion in virtual reality/movies/games through touch instead of music. My goal is not to make music audible to the deaf, but to increase the viewing experience for the blind by replacing the sense of hearing with the sense of touch
+Therefore, I want to make a wearable device that increases deaf people's immersion in films through touch instead of music. My goal is not to make music audible to the deaf, but to increase the viewing experience for deaf people by replacing the sense of hearing with the sense of touch
 
 **Inspiration:** Music: Not Impossible
 
-
-## Project progress
-### Literature reading (3 weeks)
-
-Providing feasible support for your project based on existing articles/techniques.
-
-Academic Paper: View Literature Review.pdf 
 
 ## Completed:
 ### 1. Research：
@@ -30,9 +23,9 @@ About the feasibility of my project, mainly including the existing research and 
 There’s the link about my essay on Google Docs if I upload a pdf that's not easy to read: https://docs.google.com/document/d/1-iiLT-GF5E35Y-toC7YNKWTx89TsdeicaAzzfK-SBGA/edit?usp=sharing
 
 ### 3. Interview
-   I. I interviewed eight students around me with the questions in the questionnaire and I summarised each question. (see Summary and Transcript part)
+   I. I interviewed eight students around me with the questions in the questionnaire.pdf and I summarised each question. (see Summary and Transcript part) The questionnaire is based on the existing questionnaire model.
 
-   Based on the interview questionnaire, I decided to design the vibration and squeeze sensors as two separate wearable devices to be worn on different parts of the user's body while watching the film (the exact position will be decided after I convert the audio into vibration).
+   Based on the interview questionnaire, I decided to design the vibration and light sensors wearable devices to be worn on on hand.
 
    II. The equipment needs to be rented from the school: Display, Headset, Table, Chair
 In this case, it will be divided into four main viewing states, the first is to wear headphones to watch, the second is to wear wear wearable devices without headphones, the third is to wear no headphones without wearable devices to watch, and finally is to wear at the same time
@@ -52,7 +45,7 @@ In this case, it will be divided into four main viewing states, the first is to 
 
 ### 5. Coding Part
 
-In Processing (a coding software based on Java), I have completed audio analysis and transferred the data to Arduino to synchronize LED strips and a vibration motor with the music. However, the merged file still needs debugging because some data analysis issues have resulted in reduced precision in the vibration motor's operation after merging.
+In Processing (a coding software based on Java), I have completed audio analysis and transferred the data to Arduino to synchronize LED strips and a vibration motor with the music. However, the file still needs debugging because some data analysis issues have resulted in reduced precision in the vibration motor's operation after merging.
 
 ![WechatIMG42](https://git.arts.ac.uk/storage/user/589/files/02db0616-8da2-4af5-87c0-91e601a26b82)
 
@@ -70,28 +63,29 @@ Arduino coding:
 ## Next to do:
 ### 1. Connect more controllers.
   
-   Connect more vibration motors controlled by DRV2605L; here, I choose to use TCA9548A for centralized control of all DRV2605L devices.
+   Connect more vibration motors controlled by DRV2605L. I choose to use TCA9548A for centralized control of all DRV2605L devices.
 
    <img width="247" alt="截屏2023-10-30 14 48 38" src="https://git.arts.ac.uk/storage/user/589/files/a311fee3-1cc9-4966-8345-93da70828a1e">
    
-### 2. Explore a wider variety of vibration patterns
+### 2. Explore different kind of vibrations
 
-Such as splitting the audio into sound effects and background music and allowing users to feel sound effects and background music separately in the left and right hands. (Since I don't have the original video's audio track files, I might opt to edit the background music in software like Premiere and replace it with similar sound effects. However, there's no need to worry about discrepancies with the original video, as the final presentation will use the original video and audio files. The two audio files I edit later are for background analysis.)
+Splitting the audio into sound effects and background music and use multiple channels to analyze, so that can allowed users to feel sound effects in the left hand and the background music in the right hand. (Since I don't have the original video's audio track files, I might opt to edit the background music in software like Premiere and replace it with similar sound effects. In the final exhibition will use the original video and audio files. The two audio files I use multiple channels to analyze by Processing will not be played in the exhibition.)
 
-### 3. Experiment with more dynamic changes in LED strip colors.
+### 3. Explore more dynamic changes in LED strip colors.
+   I've only tried flashing lights now.
    
 ### 4. Write the Methodology, A Project Write Up and Evaluation of the paper.
 
    I have completed the literature review and interview sections so far, as my project is still ongoing, I haven't finished the other section yet.
 
 ### 5. Assemble the wearable form
-   Like a glove. I am using a total of six vibration motors controlled by controllers, and I am securing them to three fingers on each hand. Based on the interviews, fingers are more sensitive to tactile sensations, and they are also symbolically connected to the heart in Chinese culture. In my project, participants will be wearing headphones, so I cannot mount the motors on the ears. Therefore, I have chosen to design this wearable device for the hand.
+   I designed it like a glove. I am using a total of six vibration motors controlled by controllers, and I am take them to three fingers on each hand. Based on the interviews, fingers are more sensitive to the vibration, and they are also means connected to the heart in Chinese culture. In my project, viewers will be wearing headphones, so I cannot make the motors on the ears. Therefore, I have chosen to design this wearable device for the hand.
 
    ![WechatIMG21566](https://git.arts.ac.uk/storage/user/589/files/da3932d2-e0aa-4f11-8f8e-eae29deaba32)
 
 ## Question:
 
- I was not able to find the DRV2605L component in Autodesk Thinkercad, so I needed to figure out how to solve this problem in order to put a clearer circuit diagram in my thesis.
+ I was not able to find the DRV2605L component in Autodesk Thinkercad, so I needed to figure out how to solve this problem in order to put a clearer circuit diagram in my essay.
 
  <img width="1225" alt="截屏2023-10-30 14 42 35" src="https://git.arts.ac.uk/storage/user/589/files/17abd5b7-f327-45d4-8b0c-a0a049688e16">
 
