@@ -4,7 +4,7 @@ The development of virtual reality/movie/game has ignored the feelings of disabl
 
 For example, horror movies are usually much less frightening when the sound is turned off. Therefore how to make it possible for deaf people to join in the enjoyment of virtual reality/movies is also an important issue. 
 
-Therefore, I want to make a wearable device that increases deaf people's immersion in films through touch instead of music. My goal is not to make music audible to the deaf, but to increase the viewing experience for deaf people by replacing the sense of hearing with the sense of touch
+Therefore, I want to make a wearable device that increases deaf people's immersion in films through touch instead of music. My goal is not to make music audible to the deaf, but to increase the viewing experience for deaf people by replacing the sense of hearing with the sense of touch and visual
 
 **Inspiration:** Music: Not Impossible
 
@@ -25,7 +25,7 @@ There’s the link about my essay on Google Docs if I upload a pdf that's not ea
 ### 3. Interview
    I. I interviewed eight students around me with the questions in the questionnaire.pdf and I summarised each question. (see Summary and Transcript part) The questionnaire is based on the existing questionnaire model.
 
-   Based on the interview questionnaire, I decided to design the vibration and light sensors wearable devices to be worn on on hand.
+   Based on the interview questionnaire, I decided to design the vibration and LED strip wearable devices to be worn on on hand.
 
    II. The equipment needs to be rented from the school: Display, Headset, Table, Chair
 In this case, it will be divided into four main viewing states, the first is to wear headphones to watch, the second is to wear wear wearable devices without headphones, the third is to wear no headphones without wearable devices to watch, and finally is to wear at the same time
