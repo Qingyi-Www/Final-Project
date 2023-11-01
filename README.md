@@ -10,7 +10,6 @@ Therefore, I want to make a wearable device that increases deaf people's immersi
 
 
 ## Project Timeline and Milestones
-## Summer work plan
 ### Literature reading (3 weeks)
 
 Providing feasible support for your project based on existing articles/techniques.
@@ -42,6 +41,8 @@ In this case, it will be divided into four main viewing states, the first is to 
    I.  short film：Controller
    
    link：https://www.youtube.com/watch?v=_osh7dQa5lA
+
+   <img width="873" alt="截屏2023-11-01 14 06 54" src="https://git.arts.ac.uk/storage/user/589/files/2d828b9d-99d6-486a-bcce-74b2f0589fce">
 
    II. Synopsis： Just before turning in for the night, Sarah soon finds her evening much more entertaining than anticipated. Surely cause and effect is the rational judgement? Or perhaps there is a far more whimsical reason? begging the question, who or what is the controller?
 
