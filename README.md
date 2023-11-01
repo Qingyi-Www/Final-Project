@@ -86,6 +86,8 @@ Such as splitting the audio into sound effects and background music and allowing
 ### 5. Assemble the wearable form
    Like a glove. I am using a total of six vibration motors controlled by controllers, and I am securing them to three fingers on each hand. Based on the interviews, fingers are more sensitive to tactile sensations, and they are also symbolically connected to the heart in Chinese culture. In my project, participants will be wearing headphones, so I cannot mount the motors on the ears. Therefore, I have chosen to design this wearable device for the hand.
 
+   ![WechatIMG21566](https://git.arts.ac.uk/storage/user/589/files/da3932d2-e0aa-4f11-8f8e-eae29deaba32)
+
 ## Question:
 
  I was not able to find the DRV2605L component in Autodesk Thinkercad, so I needed to figure out how to solve this problem in order to put a clearer circuit diagram in my thesis.
