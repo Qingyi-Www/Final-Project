@@ -75,6 +75,8 @@ Connect more vibration motors controlled by DRV2605L. I choose to use TCA9548A f
    
 Adding a vibration motor to Multi-threaded and adjusting the parameters of the The vibration strengh is: the calculateRMS function calculates the RMS value of the audio buffer. vibration frequency is analysed using FFT. brightness = vibration strengh. （see **Group2**）
 
+![IMG_5245](https://git.arts.ac.uk/storage/user/589/files/ed01f14c-dbde-4378-9df0-54967c92bbef)
+
 **Step 6**
 Cutting model with sponge and cardboard shell material, cardboard shell for device support, sponge for better user tactile feeling. Then assemble.
 
@@ -85,6 +87,7 @@ Cutting model with sponge and cardboard shell material, cardboard shell for devi
 **Step 7** Explore different kind of vibrations
 
 Splitting the audio into sound effects and background music and use multiple channels to analyze, so that can allowed users to feel sound effects in the left hand and the background music in the right hand. (Since I don't have the original video's audio track files, I might opt to edit the background music in software like Premiere and replace it with similar sound effects. In the final exhibition will use the original video and audio files. The two audio files I use multiple channels to analyze by Processing will not be played in the exhibition.)  （see **Group3**）
+![IMG_5283](https://git.arts.ac.uk/storage/user/589/files/bd286495-d6bd-46f5-9f1c-5b938deda015)
 
    
 ### 6. Write the Methodology, A Project Write Up and Evaluation of the paper.(11.1-11.20)
