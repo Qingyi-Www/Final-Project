@@ -9,8 +9,8 @@ The development of virtual reality/movie/game has ignored the feelings of disabl
 For example, horror movies are usually much less frightening when the sound is turned off. Therefore how to make it possible for deaf people to join in the enjoyment of virtual reality/movies is also an important issue. 
 
 Therefore, I want to make a wearable device that increases deaf people's immersion in films through touch instead of music. My goal is not to make music audible to the deaf, but to increase the viewing experience for deaf people by replacing the sense of hearing with the sense of touch and visual
+![IMG_5310](https://git.arts.ac.uk/storage/user/589/files/a041681e-3617-4bde-a56f-90f86a24339c)
 
-![IMG_5306 2](https://git.arts.ac.uk/storage/user/589/files/5664cc17-34b0-4843-a820-f9a1aabe4a81)
 
 ## Process:
 ### 1. Research (7.10-8.10)
@@ -92,6 +92,8 @@ Cutting model with sponge and cardboard shell material, cardboard shell for devi
 
 Splitting the audio into sound effects and background music and use multiple channels to analyze, so that can allowed users to feel sound effects in the left hand and the background music in the right hand. (Since I don't have the original video's audio track files, I might opt to edit the background music in software like Premiere and replace it with similar sound effects. In the final exhibition will use the original video and audio files. The two audio files I use multiple channels to analyze by Processing will not be played in the exhibition.)  （see **Group3**）
 ![IMG_5283](https://git.arts.ac.uk/storage/user/589/files/bd286495-d6bd-46f5-9f1c-5b938deda015)
+
+![IMG_5306 2](https://git.arts.ac.uk/storage/user/589/files/5664cc17-34b0-4843-a820-f9a1aabe4a81)
 
    
 ### 6. Write the Methodology, A Project Write Up and Evaluation of the paper.(11.1-11.20)
