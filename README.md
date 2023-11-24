@@ -1,16 +1,19 @@
 # Final-Project - SensoryCine
+
+**Video Link:** https://youtu.be/CZowIp6P4QA
+
 **Project Purpose:**
+
 The development of virtual reality/movie/game has ignored the feelings of disabled groups, such as the DEAF, who do not enjoy the full viewing experience and lose a large part of their immersion because they cannot hear the music.
 
 For example, horror movies are usually much less frightening when the sound is turned off. Therefore how to make it possible for deaf people to join in the enjoyment of virtual reality/movies is also an important issue. 
 
 Therefore, I want to make a wearable device that increases deaf people's immersion in films through touch instead of music. My goal is not to make music audible to the deaf, but to increase the viewing experience for deaf people by replacing the sense of hearing with the sense of touch and visual
 
-**Inspiration:** Music: Not Impossible
 
 
-## Completed:
-### 1. Research：
+## Process:
+### 1. Research (7.10-8.10)
   
    I. The substitutability of auditory experiences for the deaf
 
@@ -18,11 +21,11 @@ Therefore, I want to make a wearable device that increases deaf people's immersi
    
 ### 2. Wrote the Introduction part of the essay: Literature Review.pdf
 
-About the feasibility of my project, mainly including the existing research and the significance of the project. (sView Literature Review.pdf)
+About the feasibility of my project, mainly including the existing research and the significance of the project. (View Literature Review.pdf)
 
 There’s the link about my essay on Google Docs if I upload a pdf that's not easy to read: https://docs.google.com/document/d/1-iiLT-GF5E35Y-toC7YNKWTx89TsdeicaAzzfK-SBGA/edit?usp=sharing
 
-### 3. Interview
+### 3. Interview (8.10-8.20)
    I. I interviewed eight students around me with the questions in the questionnaire.pdf and I summarised each question. (see Summary and Transcript part) The questionnaire is based on the existing questionnaire model.
 
    Based on the interview questionnaire, I decided to design the vibration and LED strip wearable devices to be worn on on hand.
@@ -30,7 +33,7 @@ There’s the link about my essay on Google Docs if I upload a pdf that's not ea
    II. The equipment needs to be rented from the school: Display, Headset, Table, Chair
 In this case, it will be divided into four main viewing states, the first is to wear headphones to watch, the second is to wear wear wearable devices without headphones, the third is to wear no headphones without wearable devices to watch, and finally is to wear at the same time
 
-### 4. Video
+### 4. Find a Video (8.20-8.27)
    I.  short film：Controller
    
    link：https://www.youtube.com/watch?v=_osh7dQa5lA
@@ -43,50 +46,46 @@ In this case, it will be divided into four main viewing states, the first is to 
 
    The music in this film almost has the sound effect (sound from TV) but lacks music that expresses emotions. But I think that this short film without music will affect the understanding of the film, so I think that this short film can still highlight what my project is presenting
 
-### 5. Coding Part
+### 5. Coding Part (8.27-11.1)
 
 In Processing (a coding software based on Java), I have completed audio analysis and transferred the data to Arduino to synchronize LED strips and a vibration motor with the music. However, the file still needs debugging because some data analysis issues have resulted in reduced precision in the vibration motor's operation after merging.
 
-![WechatIMG42](https://git.arts.ac.uk/storage/user/589/files/02db0616-8da2-4af5-87c0-91e601a26b82)
+**Step 1**
 
-Processing coding:
+Test the communication test between Arduino and Processing first, send the data to arduino using serial monitor. Input "Hello from processing" to Arduino in the processing side, after that, if Arduino recognises the data, it will turn on the LED light. (see **P-A serial communication**)
 
-<img width="508" alt="截屏2023-10-30 14 18 16" src="https://git.arts.ac.uk/storage/user/589/files/24956dc4-eca4-42f3-8d92-6e650722e763">
-<img width="636" alt="截屏2023-10-30 14 18 34" src="https://git.arts.ac.uk/storage/user/589/files/6916d0c0-e15a-4f89-bd1c-a5202edc6fed">
-<img width="512" alt="截屏2023-10-30 14 18 42" src="https://git.arts.ac.uk/storage/user/589/files/21f90a1f-31fd-4444-9bd9-691c7fc5632d">
+**Step 2**
+The audio amplitude is calculated in Processing and the mapped LED brightness data is then transferred to the Arduino. This approach is more straightforward and simpler, as the Arduino only needs to process the simple brightness values from Processing and control the brightness of the LED strip accordingly. This makes the code on the Arduino side cleaner and makes it easier to reflect the rhythm of the music on the LED strip. (see **oneLEDstrip**)
 
-Arduino coding:
+![IMG_4976](https://git.arts.ac.uk/storage/user/589/files/9b627272-f0bc-47e1-a048-3099910bee1d)
 
-<img width="636" alt="截屏2023-10-30 14 15 00" src="https://git.arts.ac.uk/storage/user/589/files/575edd08-c4d5-4175-aa13-4501dc017f8a">
-<img width="634" alt="截屏2023-10-30 14 15 09" src="https://git.arts.ac.uk/storage/user/589/files/bf5ddef9-8e60-40c9-aea9-fb2ac0f03f1f">
+**Step 3**
+Vibration strength adjustment: int vibrationStrength = int(map(amplitude, 0, 0.5, 0, 255));
 
-## Next to do:
-### 1. Connect more controllers.
-  
-   Connect more vibration motors controlled by DRV2605L. I choose to use TCA9548A for centralized control of all DRV2605L devices.
+The smaller the last digit the smaller the vibration amplitude, it is not easy to feel it, but the change can be felt. The most suitable is (0, 0.5, 0, 100) (see **oneVibrationMotor**)
+
+**Step 4**
+Multi-threaded exploration:
+Just testing the PROCESSING multithreaded analysis first, using channel A and channel B to analyse the two audio sound_effect.mp3 and background_music.mp3 that I separated earlier, and detecting the sound values by FFT. If the sound of channel A is greater than 0, then use the draw function to draw a red rectangle; if the sound of channel A is greater than 0, then draw a yellow rectangle.（see **Multi-threaded**）
+
+**Step 5**
+Connect more vibration motors controlled by DRV2605L. I choose to use TCA9548A for centralized control of all DRV2605L devices.
 
    <img width="247" alt="截屏2023-10-30 14 48 38" src="https://git.arts.ac.uk/storage/user/589/files/a311fee3-1cc9-4966-8345-93da70828a1e">
    
-### 2. Explore different kind of vibrations
+Adding a vibration motor to Multi-threaded and adjusting the parameters of the The vibration strengh is: the calculateRMS function calculates the RMS value of the audio buffer. vibration frequency is analysed using FFT. brightness = vibration strengh. （see **Group2**）
 
-Splitting the audio into sound effects and background music and use multiple channels to analyze, so that can allowed users to feel sound effects in the left hand and the background music in the right hand. (Since I don't have the original video's audio track files, I might opt to edit the background music in software like Premiere and replace it with similar sound effects. In the final exhibition will use the original video and audio files. The two audio files I use multiple channels to analyze by Processing will not be played in the exhibition.)
+**Step 6**
+Cutting model with sponge and cardboard shell material, cardboard shell for device support, sponge for better user tactile feeling. Then assemble.
 
-### 3. Explore more dynamic changes in LED strip colors.
-   I've only tried flashing lights now.
+![IMG_5260](https://git.arts.ac.uk/storage/user/589/files/cfaa8b39-e608-4c8c-bb2f-dfcc282737a9)
+![IMG_5261](https://git.arts.ac.uk/storage/user/589/files/8244e023-8b65-4a8a-acb2-b731ee4f8b06)
+
    
-### 4. Write the Methodology, A Project Write Up and Evaluation of the paper.
+**Step 7** Explore different kind of vibrations
 
-   I have completed the literature review and interview sections so far, as my project is still ongoing, I haven't finished the other section yet.
+Splitting the audio into sound effects and background music and use multiple channels to analyze, so that can allowed users to feel sound effects in the left hand and the background music in the right hand. (Since I don't have the original video's audio track files, I might opt to edit the background music in software like Premiere and replace it with similar sound effects. In the final exhibition will use the original video and audio files. The two audio files I use multiple channels to analyze by Processing will not be played in the exhibition.)  （see **Group3**）
 
-### 5. Assemble the wearable form
-   I designed it like a glove. I am using a total of six vibration motors controlled by controllers, and I am take them to three fingers on each hand. Based on the interviews, fingers are more sensitive to the vibration, and they are also means connected to the heart in Chinese culture. In my project, viewers will be wearing headphones, so I cannot make the motors on the ears. Therefore, I have chosen to design this wearable device for the hand.
+   
+### 6. Write the Methodology, A Project Write Up and Evaluation of the paper.(11.1-11.20)
 
-   ![WechatIMG21566](https://git.arts.ac.uk/storage/user/589/files/da3932d2-e0aa-4f11-8f8e-eae29deaba32)
-
-## Question:
-
- I was not able to find the DRV2605L component in Autodesk Thinkercad, so I needed to figure out how to solve this problem in order to put a clearer circuit diagram in my essay.
-
- <img width="1225" alt="截屏2023-10-30 14 42 35" src="https://git.arts.ac.uk/storage/user/589/files/17abd5b7-f327-45d4-8b0c-a0a049688e16">
-
- <img width="329" alt="截屏2023-10-30 14 44 10" src="https://git.arts.ac.uk/storage/user/589/files/89f93441-a158-4c36-b18a-9b3afc3b9ce1">
