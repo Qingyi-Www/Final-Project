@@ -64,9 +64,14 @@ Vibration strength adjustment: int vibrationStrength = int(map(amplitude, 0, 0.5
 
 The smaller the last digit the smaller the vibration amplitude, it is not easy to feel it, but the change can be felt. The most suitable is (0, 0.5, 0, 100) (see **oneVibrationMotor**)
 
+![IMG_5002](https://git.arts.ac.uk/storage/user/589/files/0775b217-1b8f-48cf-b0c2-b61d8d07845a)
+
 **Step 4**
 Multi-threaded exploration:
 Just testing the PROCESSING multithreaded analysis first, using channel A and channel B to analyse the two audio sound_effect.mp3 and background_music.mp3 that I separated earlier, and detecting the sound values by FFT. If the sound of channel A is greater than 0, then use the draw function to draw a red rectangle; if the sound of channel A is greater than 0, then draw a yellow rectangle.（see **Multi-threaded**）
+
+<img width="532" alt="截屏2023-11-24 18 51 11" src="https://git.arts.ac.uk/storage/user/589/files/f9ee2740-9524-4c53-a20d-22eafe32dd98">
+
 
 **Step 5**
 Connect more vibration motors controlled by DRV2605L. I choose to use TCA9548A for centralized control of all DRV2605L devices.
@@ -74,7 +79,7 @@ Connect more vibration motors controlled by DRV2605L. I choose to use TCA9548A f
    <img width="247" alt="截屏2023-10-30 14 48 38" src="https://git.arts.ac.uk/storage/user/589/files/a311fee3-1cc9-4966-8345-93da70828a1e">
    
 Adding a vibration motor to Multi-threaded and adjusting the parameters of the The vibration strengh is: the calculateRMS function calculates the RMS value of the audio buffer. vibration frequency is analysed using FFT. brightness = vibration strengh. （see **Group2**）
-
+![IMG_5309](https://git.arts.ac.uk/storage/user/589/files/dd261a94-1e68-464e-861b-2e316ea0e801)
 ![IMG_5245](https://git.arts.ac.uk/storage/user/589/files/ed01f14c-dbde-4378-9df0-54967c92bbef)
 
 **Step 6**
