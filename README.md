@@ -10,7 +10,7 @@ For example, horror movies are usually much less frightening when the sound is t
 
 Therefore, I want to make a wearable device that increases deaf people's immersion in films through touch instead of music. My goal is not to make music audible to the deaf, but to increase the viewing experience for deaf people by replacing the sense of hearing with the sense of touch and visual
 
-
+![IMG_5306 2](https://git.arts.ac.uk/storage/user/589/files/5664cc17-34b0-4843-a820-f9a1aabe4a81)
 
 ## Process:
 ### 1. Research (7.10-8.10)
