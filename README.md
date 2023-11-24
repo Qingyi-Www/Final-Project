@@ -79,9 +79,8 @@ Adding a vibration motor to Multi-threaded and adjusting the parameters of the T
 
 **Step 6**
 Cutting model with sponge and cardboard shell material, cardboard shell for device support, sponge for better user tactile feeling. Then assemble.
-
-![IMG_5260](https://git.arts.ac.uk/storage/user/589/files/cfaa8b39-e608-4c8c-bb2f-dfcc282737a9)
-![IMG_5261](https://git.arts.ac.uk/storage/user/589/files/8244e023-8b65-4a8a-acb2-b731ee4f8b06)
+![IMG_5261](https://git.arts.ac.uk/storage/user/589/files/31687992-7619-43a3-85b1-025f6cf77aea)
+![IMG_5260](https://git.arts.ac.uk/storage/user/589/files/650fce24-99b4-4afc-b131-10927afe3576)
 
    
 **Step 7** Explore different kind of vibrations
