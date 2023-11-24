@@ -1,4 +1,4 @@
-# Final-Project
+# Final-Project - SensoryCine
 **Project Purpose:**
 The development of virtual reality/movie/game has ignored the feelings of disabled groups, such as the DEAF, who do not enjoy the full viewing experience and lose a large part of their immersion because they cannot hear the music.
 
