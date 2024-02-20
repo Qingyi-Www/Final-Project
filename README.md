@@ -13,7 +13,7 @@ Therefore, I want to make a wearable device that increases deaf people's immersi
 
 
 ## Process:
-### 1. Research (7.10-8.10)
+### 1. Research (7.30-8.10)
   
    I. The substitutability of auditory experiences for the deaf
 
@@ -22,8 +22,6 @@ Therefore, I want to make a wearable device that increases deaf people's immersi
 ### 2. Wrote the Introduction part of the essay: Literature Review.pdf
 
 About the feasibility of my project, mainly including the existing research and the significance of the project. (View Literature Review.pdf)
-
-There’s the link about my essay on Google Docs if I upload a pdf that's not easy to read: https://docs.google.com/document/d/1-iiLT-GF5E35Y-toC7YNKWTx89TsdeicaAzzfK-SBGA/edit?usp=sharing
 
 ### 3. Interview (8.10-8.20)
    I. I interviewed eight students around me with the questions in the questionnaire.pdf and I summarised each question. (see Summary and Transcript part) The questionnaire is based on the existing questionnaire model.
@@ -96,5 +94,5 @@ Splitting the audio into sound effects and background music and use multiple cha
 ![IMG_5306 2](https://git.arts.ac.uk/storage/user/589/files/5664cc17-34b0-4843-a820-f9a1aabe4a81)
 
    
-### 6. Write the Methodology, A Project Write Up and Evaluation of the paper.(11.1-11.20)
+### 6. Write the Methodology, A Project Write Up and Evaluation of the paper.(10.20-11.20)
 
